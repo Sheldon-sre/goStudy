@@ -12,4 +12,4 @@ func main() {
 }
 
 //to demo the values in go
-//strings , integers, floats, boolean
+//strings , integers, floats, booleans
